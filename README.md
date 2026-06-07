@@ -22,5 +22,5 @@ I hope to grow into an AI application engineer who combines statistical thinking
 
 ## Follow me on
 
-[![Xiaohongshu](https://img.shields.io/badge/小红书-Mengyu hao-ff2442?style=for-the-badge)](https://xhslink.com/m/74Lh7Xma7hO)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-郝梦羽-ff2442?style=for-the-badge)](https://xhslink.com/m/74Lh7Xma7hO)
 [![WeChat Official Account](https://img.shields.io/badge/微信公众号-扫码关注-07C160?style=for-the-badge)](./assets/wechat-official-account.png)
